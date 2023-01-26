@@ -53,10 +53,10 @@
 При клике на кнопку «Отправить» сообщение должно появляться в окне переписки.
 
 Эхо-сервер будет отвечать вам тем же сообщением, его также необходимо выводить в чат:
-[](https://lms.skillfactory.ru/assets/courseware/v1/8f6c994ffb9a1526f2b678588ddc8ae4/asset-v1:SkillFactory+PHPPRO+2022+type@asset+block/m15_practice1.png)
+![](https://lms.skillfactory.ru/assets/courseware/v1/8f6c994ffb9a1526f2b678588ddc8ae4/asset-v1:SkillFactory+PHPPRO+2022+type@asset+block/m15_practice1.png)
 
 2. Добавить в чат механизм отправки гео-локации:
-[](https://lms.skillfactory.ru/assets/courseware/v1/368e7971c720c3eb6441642afe77b9b8/asset-v1:SkillFactory+PHPPRO+2022+type@asset+block/m15_practice2.png)
+![](https://lms.skillfactory.ru/assets/courseware/v1/368e7971c720c3eb6441642afe77b9b8/asset-v1:SkillFactory+PHPPRO+2022+type@asset+block/m15_practice2.png)
 
 При клике на кнопку «Гео-локация» необходимо отправить данные серверу и в чат вывести ссылку на [https://www.openstreetmap.org/](https://www.openstreetmap.org/) с вашей гео-локацией. **Сообщение, которое отправит обратно эхо-сервер, не выводить.**
 ---
